@@ -1,0 +1,1 @@
+/home/sadmin/SCRIPT/BIP_AUTOMATION/version_mismatch.sh
